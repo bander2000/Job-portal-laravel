@@ -24,7 +24,7 @@
 - can view all applied employee for job
 - can download employee cv
 - can accept employee for job
-- can upload personal image, cover photo
+- can upload logo , cover photo
 
 ## video of small part of website
 https://user-images.githubusercontent.com/68750404/151939887-23501fc5-61fb-49e6-ba05-aeffea4a14a3.mp4
