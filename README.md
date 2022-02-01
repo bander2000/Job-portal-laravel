@@ -26,6 +26,8 @@
 - can accept employee for job
 - can upload personal image, cover photo
 
-## video of website
+## video of small part of website
+https://user-images.githubusercontent.com/68750404/151939887-23501fc5-61fb-49e6-ba05-aeffea4a14a3.mp4
+
 
 
